@@ -451,7 +451,8 @@ a:hover {
 		text-align: center;
 		font-size: 12px;
 		padding-top: 0px;
-		padding-bottom: 20px;
+		padding-bottom: 0px
+		margin-bottom: 0px
 		color: rgba(189, 189, 189, 0.5);
 }
 
